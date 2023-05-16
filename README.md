@@ -1,5 +1,5 @@
-# Markov
-Malware detection with image representation and Markov Chain
+# Malware detection with image representation and Markov Chain
+
 
 This is the repository of our paper "A Study on Image-based Representation Malware Detection Utilizing Extended Malimg Dataset"
 
