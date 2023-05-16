@@ -3,8 +3,7 @@
 
 This is the repository of our paper "A Study on Image-based Representation Malware Detection Utilizing Extended Malimg Dataset"
 
-We compare two different image representation with Grayscale image and High Order Markov Chain for malware detection.  
-Dataset Grayscale image are Malimga dataset from Nataraj https://dl.acm.org/doi/pdf/10.1145/2016904.2016908
+We compare two different image representation with Grayscale image and High Order Markov Chain for malware detection.  Dataset Grayscale image are Malimg dataset from Nataraj https://dl.acm.org/doi/pdf/10.1145/2016904.2016908
 
 We extended Malimg dataset with benign samples for malware detection. The benign samples were collected from fresh Windows Installation and validated. 
 
